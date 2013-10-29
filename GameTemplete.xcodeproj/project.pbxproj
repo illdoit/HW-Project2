@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40334A7118207E6F007C0A65 /* cannon.png in Resources */ = {isa = PBXBuildFile; fileRef = 40334A6F18207E6F007C0A65 /* cannon.png */; };
+		40334A7218207E6F007C0A65 /* missle.png in Resources */ = {isa = PBXBuildFile; fileRef = 40334A7018207E6F007C0A65 /* missle.png */; };
 		405CCEA118200E91000C7DC4 /* Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 405CCE9D18200E91000C7DC4 /* Utility.m */; };
 		405CCEA218200E91000C7DC4 /* Box.m in Sources */ = {isa = PBXBuildFile; fileRef = 405CCE9F18200E91000C7DC4 /* Box.m */; };
 		405CCEA4182011E8000C7DC4 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 405CCEA3182011E8000C7DC4 /* QuartzCore.framework */; };
@@ -34,6 +36,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		40334A6F18207E6F007C0A65 /* cannon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cannon.png; sourceTree = "<group>"; };
+		40334A7018207E6F007C0A65 /* missle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = missle.png; sourceTree = "<group>"; };
 		405CCE9D18200E91000C7DC4 /* Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Utility.m; sourceTree = "<group>"; };
 		405CCE9E18200E91000C7DC4 /* Box.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Box.h; sourceTree = "<group>"; };
 		405CCE9F18200E91000C7DC4 /* Box.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Box.m; sourceTree = "<group>"; };
@@ -136,6 +140,8 @@
 		6289FC1E17931D5C003BABC1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				40334A6F18207E6F007C0A65 /* cannon.png */,
+				40334A7018207E6F007C0A65 /* missle.png */,
 				405CCEB5182073AD000C7DC4 /* img4.png */,
 				405CCEB6182073AD000C7DC4 /* img3.png */,
 				405CCEB7182073AD000C7DC4 /* img2.png */,
@@ -211,9 +217,11 @@
 				405CCEBB182073AD000C7DC4 /* img2.png in Resources */,
 				405CCEAE18202B34000C7DC4 /* gametitle.png in Resources */,
 				405CCEB018204878000C7DC4 /* meteor0.png in Resources */,
+				40334A7218207E6F007C0A65 /* missle.png in Resources */,
 				405CCEBC182073AD000C7DC4 /* img1.png in Resources */,
 				405CCEB418205E99000C7DC4 /* stars.png in Resources */,
 				405CCEBA182073AD000C7DC4 /* img3.png in Resources */,
+				40334A7118207E6F007C0A65 /* cannon.png in Resources */,
 				405CCEB218205A72000C7DC4 /* meteor1.png in Resources */,
 				405CCEB9182073AD000C7DC4 /* img4.png in Resources */,
 				6289FC2C17931D5C003BABC1 /* Default@2x.png in Resources */,
